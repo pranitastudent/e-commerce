@@ -1,2 +1,7 @@
+.env.py
 *.sqlite3
-env.py
+__pycache__
+.~c9*
+*.png
+static/
+media/
